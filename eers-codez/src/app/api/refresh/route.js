@@ -3,7 +3,6 @@ import connectDB from '@/lib/mongodb';
 import Student from '@/lib/models/Student';
 import DailySnapshot from '@/lib/models/DailySnapshot';
 import { fetchAllDataForUser } from '@/lib/leetcode';
-import fs from 'fs';
 import path from 'path';
 import {
     calculateStreak,
@@ -136,13 +135,15 @@ export async function POST() {
             }));
         }
 
-        // Sync to students.json for fallback consistency
-        try {
-            const allStudents = await Student.find({}).lean();
-            const jsonPath = path.join(process.cwd(), 'src/data/students.json');
-            fs.writeFileSync(jsonPath, JSON.stringify(allStudents, null, 2));
-        } catch (e) {
-            console.error('Failed to sync JSON cache:', e.message);
+        // Sync to students.json for fallback consistency (DISABLED ON VERCEL)
+        if (!process.env.VERCEL) {
+            try {
+                const allStudents = await Student.find({}).lean();
+                const jsonPath = path.join(process.cwd(), 'src/data/students.json');
+                fs.writeFileSync(jsonPath, JSON.stringify(allStudents, null, 2));
+            } catch (e) {
+                console.error('Failed to sync JSON cache:', e.message);
+            }
         }
 
         return NextResponse.json({

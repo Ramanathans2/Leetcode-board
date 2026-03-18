@@ -161,12 +161,14 @@ export async function POST() {
             await s.save();
         }
 
-        // Persistent Cache Sync
-        try {
-            const finalBatch = await Student.find({}).lean();
-            const jsonPath = path.join(process.cwd(), 'src/data/students.json');
-            fs.writeFileSync(jsonPath, JSON.stringify(finalBatch, null, 2));
-        } catch (e) { }
+        // Persistent Cache Sync (DISABLED ON VERCEL)
+        if (!process.env.VERCEL) {
+            try {
+                const finalBatch = await Student.find({}).lean();
+                const jsonPath = path.join(process.cwd(), 'src/data/students.json');
+                fs.writeFileSync(jsonPath, JSON.stringify(finalBatch, null, 2));
+            } catch (e) { }
+        }
 
         const durationMs = Date.now() - startTime;
         await SyncLog.create({
