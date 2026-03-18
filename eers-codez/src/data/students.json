@@ -1,0 +1,1480 @@
+[
+  {
+    "_id": "69a6711d02d00f9b5a10c73c",
+    "leetcodeUsername": "aishwaryavarshinii",
+    "__v": 6,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 16,
+      "easy": 15,
+      "medium": 1,
+      "hard": 0
+    },
+    "name": "AISHWARYAVARSHINI J",
+    "registerNumber": "814723105003",
+    "consistencyScore": 33,
+    "difficultyIndex": 1.06,
+    "languageBreakdown": {
+      "Java": 15,
+      "MySQL": 1
+    },
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": -6,
+    "mostUsedLanguage": "Java",
+    "recentSubmissions": [
+      {
+        "title": "Contains Duplicate",
+        "titleSlug": "contains-duplicate",
+        "language": "java",
+        "timestamp": 1773330248,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Single Number II",
+        "titleSlug": "single-number-ii",
+        "language": "java",
+        "timestamp": 1772943347,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Height Checker",
+        "titleSlug": "height-checker",
+        "language": "java",
+        "timestamp": 1772890308,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Majority Element",
+        "titleSlug": "majority-element",
+        "language": "java",
+        "timestamp": 1772889139,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Single Number II",
+        "titleSlug": "single-number-ii",
+        "language": "java",
+        "timestamp": 1772876626,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "language": "java",
+        "timestamp": 1772876274,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Search Insert Position",
+        "titleSlug": "search-insert-position",
+        "language": "java",
+        "timestamp": 1772875090,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "language": "java",
+        "timestamp": 1772641066,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Combine Two Tables",
+        "titleSlug": "combine-two-tables",
+        "language": "mysql",
+        "timestamp": 1772113404,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Element",
+        "titleSlug": "remove-element",
+        "language": "java",
+        "timestamp": 1766584008,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Four",
+        "titleSlug": "power-of-four",
+        "language": "java",
+        "timestamp": 1766571725,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Three",
+        "titleSlug": "power-of-three",
+        "language": "java",
+        "timestamp": 1766571661,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Two",
+        "titleSlug": "power-of-two",
+        "language": "java",
+        "timestamp": 1766571500,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "language": "java",
+        "timestamp": 1766498399,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "language": "java",
+        "timestamp": 1766496784,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      }
+    ],
+    "streak": 0,
+    "submissionCalendar": {
+      "1766361600": 15,
+      "1766448000": 11,
+      "1766534400": 6,
+      "1772064000": 2,
+      "1772582400": 2,
+      "1772841600": 9,
+      "1772928000": 1,
+      "1773273600": 1
+    },
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:13.778Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "lastSubmissionTime": "2026-03-12T15:44:08.000Z",
+    "momentumTrend": "down",
+    "overallImpactScore": 17,
+    "tier": "Advanced"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c73d",
+    "leetcodeUsername": "alex004",
+    "__v": 3,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 6,
+      "easy": 4,
+      "medium": 2,
+      "hard": 0
+    },
+    "name": "ALEX S",
+    "registerNumber": "814723105004",
+    "consistencyScore": 0,
+    "difficultyIndex": 1.33,
+    "languageBreakdown": {
+      "Java": 6
+    },
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "Java",
+    "recentSubmissions": [
+      {
+        "title": "Diameter of Binary Tree",
+        "titleSlug": "diameter-of-binary-tree",
+        "language": "java",
+        "timestamp": 1771930714,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Element",
+        "titleSlug": "remove-element",
+        "language": "java",
+        "timestamp": 1771930635,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "language": "java",
+        "timestamp": 1771930593,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Increasing Triplet Subsequence",
+        "titleSlug": "increasing-triplet-subsequence",
+        "language": "java",
+        "timestamp": 1771930470,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Contains Duplicate",
+        "titleSlug": "contains-duplicate",
+        "language": "java",
+        "timestamp": 1771923859,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Min Stack",
+        "titleSlug": "min-stack",
+        "language": "java",
+        "timestamp": 1771230026,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      }
+    ],
+    "streak": 0,
+    "submissionCalendar": {
+      "1771200000": 1,
+      "1771891200": 7
+    },
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:13.519Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "lastSubmissionTime": "2026-02-24T10:58:34.000Z",
+    "momentumTrend": "stable",
+    "overallImpactScore": 8,
+    "tier": "Advanced"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c73e",
+    "leetcodeUsername": "uarun_26",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "ARUN PRASAD U",
+    "registerNumber": "814723105005",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:13.167Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c73f",
+    "leetcodeUsername": "dharshan4321",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "DHARSHAN A",
+    "registerNumber": "814723105009",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:13.142Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c740",
+    "leetcodeUsername": "dikshith-013",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "DIKSHITH P",
+    "registerNumber": "814723105013",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:13.207Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c741",
+    "leetcodeUsername": "hariharan_1986",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "HARIHARAN B",
+    "registerNumber": "814723105015",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:14.187Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c742",
+    "leetcodeUsername": "harisaran936",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "HARISARAN R D",
+    "registerNumber": "814723105016",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:14.137Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c743",
+    "leetcodeUsername": "irudhayakelvin5",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "IRUDHAYA KELVIN B",
+    "registerNumber": "814723105017",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:14.168Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c744",
+    "leetcodeUsername": "ajude",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "JUDE VICTOR A",
+    "registerNumber": "814723105018",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:14.144Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c745",
+    "leetcodeUsername": "kxrthigx_18",
+    "__v": 2,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "KARTHIGA J",
+    "registerNumber": "814723105019",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:14.420Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c746",
+    "leetcodeUsername": "karthi220441",
+    "__v": 3,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 7,
+      "easy": 2,
+      "medium": 5,
+      "hard": 0
+    },
+    "name": "KARTHIKEYAN R",
+    "registerNumber": "814723105020",
+    "consistencyScore": 0,
+    "difficultyIndex": 1.71,
+    "languageBreakdown": {
+      "Java": 7
+    },
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "Java",
+    "recentSubmissions": [
+      {
+        "title": "Find Numbers with Even Number of Digits",
+        "titleSlug": "find-numbers-with-even-number-of-digits",
+        "language": "java",
+        "timestamp": 1770944939,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "language": "java",
+        "timestamp": 1770772862,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "language": "java",
+        "timestamp": 1770600496,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Set Matrix Zeroes",
+        "titleSlug": "set-matrix-zeroes",
+        "language": "java",
+        "timestamp": 1770251631,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Subarray",
+        "titleSlug": "maximum-subarray",
+        "language": "java",
+        "timestamp": 1770081585,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "language": "java",
+        "timestamp": 1768990179,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "language": "java",
+        "timestamp": 1768655617,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      }
+    ],
+    "streak": 0,
+    "submissionCalendar": {
+      "1767657600": 2,
+      "1767744000": 11,
+      "1768608000": 1,
+      "1768953600": 1,
+      "1770076800": 4,
+      "1770163200": 1,
+      "1770249600": 1,
+      "1770595200": 1,
+      "1770768000": 1,
+      "1770940800": 2
+    },
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:15.490Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "lastSubmissionTime": "2026-02-13T01:08:59.000Z",
+    "momentumTrend": "stable",
+    "overallImpactScore": 12,
+    "tier": "Advanced"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c749",
+    "leetcodeUsername": "sahitya_112",
+    "__v": 7,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 27,
+      "easy": 7,
+      "medium": 16,
+      "hard": 4
+    },
+    "name": "MOUNIKA.M",
+    "registerNumber": "814723105029",
+    "consistencyScore": 17,
+    "difficultyIndex": 1.89,
+    "languageBreakdown": {
+      "Java": 26,
+      "C": 1
+    },
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": -3,
+    "mostUsedLanguage": "Java",
+    "recentSubmissions": [
+      {
+        "title": "Even Odd Tree",
+        "titleSlug": "even-odd-tree",
+        "language": "java",
+        "timestamp": 1773339458,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Rotate Array",
+        "titleSlug": "rotate-array",
+        "language": "java",
+        "timestamp": 1773160693,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "titleSlug": "longest-consecutive-sequence",
+        "language": "java",
+        "timestamp": 1773160413,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Largest Magic Square",
+        "titleSlug": "largest-magic-square",
+        "language": "java",
+        "timestamp": 1773034605,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "titleSlug": "longest-valid-parentheses",
+        "language": "java",
+        "timestamp": 1772983962,
+        "status": "Accepted",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove Element",
+        "titleSlug": "remove-element",
+        "language": "java",
+        "timestamp": 1772983829,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Tree Right Side View",
+        "titleSlug": "binary-tree-right-side-view",
+        "language": "java",
+        "timestamp": 1772903564,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Largest Number",
+        "titleSlug": "largest-number",
+        "language": "java",
+        "timestamp": 1772903192,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Reverse Integer",
+        "titleSlug": "reverse-integer",
+        "language": "java",
+        "timestamp": 1772805865,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "language": "java",
+        "timestamp": 1772805617,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "titleSlug": "trapping-rain-water",
+        "language": "java",
+        "timestamp": 1772805553,
+        "status": "Accepted",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "language": "c",
+        "timestamp": 1770698121,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Course Schedule",
+        "titleSlug": "course-schedule",
+        "language": "java",
+        "timestamp": 1770628962,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "language": "c",
+        "timestamp": 1770627678,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "language": "java",
+        "timestamp": 1770454955,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      }
+    ],
+    "streak": 0,
+    "submissionCalendar": {
+      "1768089600": 1,
+      "1770076800": 1,
+      "1770163200": 12,
+      "1770249600": 17,
+      "1770336000": 7,
+      "1770422400": 5,
+      "1770595200": 5,
+      "1770681600": 1,
+      "1771372800": 6,
+      "1772668800": 1,
+      "1772755200": 5,
+      "1772841600": 2,
+      "1772928000": 4,
+      "1773014400": 3,
+      "1773100800": 3,
+      "1773273600": 1
+    },
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:15.362Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "lastSubmissionTime": "2026-03-12T18:17:38.000Z",
+    "momentumTrend": "down",
+    "overallImpactScore": 51,
+    "tier": "Advanced"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c74b",
+    "leetcodeUsername": "ramanathan02",
+    "__v": 12,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 60,
+      "easy": 30,
+      "medium": 24,
+      "hard": 6
+    },
+    "name": "RAMANATHAN S",
+    "registerNumber": "814723105033",
+    "consistencyScore": 83,
+    "difficultyIndex": 1.6,
+    "languageBreakdown": {
+      "Java": 60
+    },
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": -9,
+    "mostUsedLanguage": "Java",
+    "recentSubmissions": [
+      {
+        "title": "Sqrt(x)",
+        "titleSlug": "sqrtx",
+        "language": "java",
+        "timestamp": 1773811202,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Factorial Trailing Zeroes",
+        "titleSlug": "factorial-trailing-zeroes",
+        "language": "java",
+        "timestamp": 1773744241,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Pow(x, n)",
+        "titleSlug": "powx-n",
+        "language": "java",
+        "timestamp": 1773568688,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Add Digits",
+        "titleSlug": "add-digits",
+        "language": "java",
+        "timestamp": 1773565172,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Pascal's Triangle",
+        "titleSlug": "pascals-triangle",
+        "language": "java",
+        "timestamp": 1773115428,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Spiral Matrix",
+        "titleSlug": "spiral-matrix",
+        "language": "java",
+        "timestamp": 1773031766,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Rotate Image",
+        "titleSlug": "rotate-image",
+        "language": "java",
+        "timestamp": 1773030078,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Set Matrix Zeroes",
+        "titleSlug": "set-matrix-zeroes",
+        "language": "java",
+        "timestamp": 1773028414,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Unique Binary String",
+        "titleSlug": "find-unique-binary-string",
+        "language": "java",
+        "timestamp": 1772942873,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "language": "java",
+        "timestamp": 1772942656,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Rearrange Array Elements by Sign",
+        "titleSlug": "rearrange-array-elements-by-sign",
+        "language": "java",
+        "timestamp": 1772769449,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "language": "java",
+        "timestamp": 1772768213,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Majority Element",
+        "titleSlug": "majority-element",
+        "language": "java",
+        "timestamp": 1772693038,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort Colors",
+        "titleSlug": "sort-colors",
+        "language": "java",
+        "timestamp": 1772691141,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if Array Is Sorted and Rotated",
+        "titleSlug": "check-if-array-is-sorted-and-rotated",
+        "language": "java",
+        "timestamp": 1772686295,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      }
+    ],
+    "streak": 0,
+    "submissionCalendar": {
+      "1766448000": 1,
+      "1766620800": 5,
+      "1766880000": 2,
+      "1767398400": 5,
+      "1767657600": 4,
+      "1767744000": 1,
+      "1767830400": 1,
+      "1768176000": 1,
+      "1770076800": 2,
+      "1770163200": 8,
+      "1770249600": 6,
+      "1770336000": 2,
+      "1770422400": 5,
+      "1770681600": 4,
+      "1770854400": 2,
+      "1770940800": 2,
+      "1771200000": 1,
+      "1771286400": 3,
+      "1771372800": 2,
+      "1772409600": 5,
+      "1772496000": 1,
+      "1772668800": 8,
+      "1772755200": 2,
+      "1772928000": 2,
+      "1773014400": 4,
+      "1773100800": 1,
+      "1773532800": 2,
+      "1773705600": 1,
+      "1773792000": 1
+    },
+    "todaySolved": 1,
+    "updatedAt": "2026-03-18T05:23:15.554Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 2,
+    "lastSubmissionTime": "2026-03-18T05:20:02.000Z",
+    "momentumTrend": "down",
+    "overallImpactScore": 96,
+    "tier": "Elite"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c74c",
+    "leetcodeUsername": "rickeydonald j",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "easy": 0,
+      "hard": 0,
+      "medium": 0,
+      "total": 0
+    },
+    "name": "RICKEY DONALD J",
+    "registerNumber": "814723105035",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-05T06:18:23.532Z",
+    "momentumScore": 0,
+    "momentumTrend": "stable",
+    "mostUsedLanguage": "N/A",
+    "overallImpactScore": 0,
+    "recentSubmissions": [],
+    "streak": 0,
+    "tier": "Developing",
+    "todaySolved": 0,
+    "updatedAt": "2026-03-07T16:38:39.821Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c74d",
+    "leetcodeUsername": "sahanathangakrishnan",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "SAHANA T",
+    "registerNumber": "814723105037",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:14.963Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c74e",
+    "leetcodeUsername": "sanjay39",
+    "__v": 3,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 37,
+      "easy": 18,
+      "medium": 14,
+      "hard": 5
+    },
+    "name": "SANJAY R",
+    "registerNumber": "814723105039",
+    "consistencyScore": 0,
+    "difficultyIndex": 1.65,
+    "languageBreakdown": {
+      "C++": 1,
+      "C": 36
+    },
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "C",
+    "recentSubmissions": [
+      {
+        "title": "Excel Sheet Column Number",
+        "titleSlug": "excel-sheet-column-number",
+        "language": "c",
+        "timestamp": 1764078296,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Intersection of Two Linked Lists",
+        "titleSlug": "intersection-of-two-linked-lists",
+        "language": "c",
+        "timestamp": 1763213811,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Interleaving String",
+        "titleSlug": "interleaving-string",
+        "language": "cpp",
+        "timestamp": 1763127171,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "language": "c",
+        "timestamp": 1762787556,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Depth of Binary Tree",
+        "titleSlug": "minimum-depth-of-binary-tree",
+        "language": "c",
+        "timestamp": 1761580132,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Same Tree",
+        "titleSlug": "same-tree",
+        "language": "c",
+        "timestamp": 1761227215,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "language": "c",
+        "timestamp": 1760537617,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Duplicates from Sorted List",
+        "titleSlug": "remove-duplicates-from-sorted-list",
+        "language": "c",
+        "timestamp": 1760363448,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "language": "c",
+        "timestamp": 1758895089,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Symmetric Tree",
+        "titleSlug": "symmetric-tree",
+        "language": "c",
+        "timestamp": 1757599961,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "language": "c",
+        "timestamp": 1757513386,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Index of the First Occurrence in a String",
+        "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+        "language": "c",
+        "timestamp": 1757427836,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Multiply Strings",
+        "titleSlug": "multiply-strings",
+        "language": "c",
+        "timestamp": 1757166843,
+        "status": "Accepted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sqrt(x)",
+        "titleSlug": "sqrtx",
+        "language": "c",
+        "timestamp": 1756995590,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Permutation Sequence",
+        "titleSlug": "permutation-sequence",
+        "language": "c",
+        "timestamp": 1756909328,
+        "status": "Accepted",
+        "difficulty": "Hard"
+      }
+    ],
+    "streak": 0,
+    "submissionCalendar": {
+      "1751760000": 7,
+      "1754265600": 5,
+      "1754438400": 1,
+      "1754524800": 1,
+      "1754611200": 1,
+      "1754870400": 1,
+      "1754956800": 1,
+      "1755043200": 1,
+      "1755129600": 3,
+      "1755302400": 5,
+      "1755388800": 1,
+      "1755475200": 3,
+      "1755648000": 1,
+      "1755734400": 1,
+      "1755993600": 1,
+      "1756166400": 1,
+      "1756252800": 1,
+      "1756339200": 1,
+      "1756425600": 1,
+      "1756684800": 1,
+      "1756771200": 2,
+      "1756857600": 1,
+      "1756944000": 1,
+      "1757116800": 1,
+      "1757376000": 1,
+      "1757462400": 1,
+      "1757548800": 1,
+      "1758844800": 3,
+      "1760313600": 4,
+      "1760486400": 3,
+      "1761177600": 1,
+      "1761264000": 7,
+      "1761523200": 1,
+      "1762732800": 1,
+      "1763078400": 3,
+      "1763164800": 5,
+      "1764028800": 3,
+      "1773014400": 1
+    },
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:22.994Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "lastSubmissionTime": "2025-11-25T13:44:56.000Z",
+    "momentumTrend": "stable",
+    "overallImpactScore": 61,
+    "tier": "Elite"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c74f",
+    "leetcodeUsername": "sarumitra_22",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "SARUMITRA S",
+    "registerNumber": "814723105042",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:22.403Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Developing"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c750",
+    "leetcodeUsername": "sibu c f",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "easy": 0,
+      "hard": 0,
+      "medium": 0,
+      "total": 0
+    },
+    "name": "SIBU C F",
+    "registerNumber": "814723105044",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-05T06:18:23.532Z",
+    "momentumScore": 0,
+    "momentumTrend": "stable",
+    "mostUsedLanguage": "N/A",
+    "overallImpactScore": 0,
+    "recentSubmissions": [],
+    "streak": 0,
+    "tier": "Developing",
+    "todaySolved": 0,
+    "updatedAt": "2026-03-17T10:31:07.693Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c751",
+    "leetcodeUsername": "somnath",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "SOMNATH N",
+    "registerNumber": "814723105045",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:22.368Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Inactive"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c752",
+    "leetcodeUsername": "soundarya_1516",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "SOUNDARYA P",
+    "registerNumber": "814723105046",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:22.348Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Inactive"
+  },
+  {
+    "_id": "69a6711d02d00f9b5a10c753",
+    "leetcodeUsername": "vasanth9345",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "VASANTHA KUMAR R",
+    "registerNumber": "814723105051",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "mostUsedLanguage": "N/A",
+    "recentSubmissions": [],
+    "streak": 0,
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:29.786Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0,
+    "momentumTrend": "stable",
+    "overallImpactScore": 0,
+    "tier": "Inactive"
+  },
+  {
+    "_id": "69b90f91592b25c091a1e64b",
+    "leetcodeUsername": "manikandan54321",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "name": "MANIKANDAN G",
+    "registerNumber": "814723105024",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "momentumScore": 0,
+    "momentumTrend": "stable",
+    "mostUsedLanguage": "N/A",
+    "overallImpactScore": 0,
+    "recentSubmissions": [],
+    "streak": 0,
+    "tier": "Inactive",
+    "todaySolved": 0,
+    "updatedAt": "2026-03-18T05:23:31.086Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0
+  },
+  {
+    "_id": "69b912981946238a1d5260aa",
+    "name": "Naveen",
+    "leetcodeUsername": "navi55",
+    "registerNumber": "",
+    "batch": "",
+    "currentStats": {
+      "total": 1,
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "mostUsedLanguage": "Java",
+    "overallImpactScore": 1,
+    "tier": "Developing",
+    "momentumTrend": "stable",
+    "streak": 0,
+    "consistencyScore": 0,
+    "difficultyIndex": 1,
+    "momentumScore": 0,
+    "weeklyGrowth": 0,
+    "todaySolved": 0,
+    "weeklySolved": 0,
+    "recentSubmissions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "language": "java",
+        "timestamp": 1772384414,
+        "status": "Accepted",
+        "difficulty": "Easy"
+      }
+    ],
+    "submissionCalendar": {
+      "1772323200": 1
+    },
+    "languageBreakdown": {
+      "Java": 1
+    },
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "createdAt": "2026-03-17T08:36:40.628Z",
+    "updatedAt": "2026-03-18T05:23:30.296Z",
+    "__v": 0,
+    "lastSubmissionTime": "2026-03-01T17:00:14.000Z"
+  },
+  {
+    "_id": "69b913431946238a1d5260b8",
+    "name": "rithika ramesh",
+    "leetcodeUsername": "rithuram",
+    "registerNumber": "",
+    "batch": "",
+    "currentStats": {
+      "total": 0,
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "mostUsedLanguage": "N/A",
+    "overallImpactScore": 0,
+    "tier": "Inactive",
+    "momentumTrend": "stable",
+    "streak": 0,
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "momentumScore": 0,
+    "weeklyGrowth": 0,
+    "todaySolved": 0,
+    "weeklySolved": 0,
+    "recentSubmissions": [],
+    "lastUpdated": "2026-03-18T05:23:12.218Z",
+    "createdAt": "2026-03-17T08:39:31.658Z",
+    "updatedAt": "2026-03-18T05:23:29.966Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b92bce592b25c091a1e674",
+    "leetcodeUsername": "814723105028@trp.srmtrichy.edu.in",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "easy": 0,
+      "hard": 0,
+      "medium": 0,
+      "total": 0
+    },
+    "name": "MOHANAPRASANTH R",
+    "registerNumber": "814723105028",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-17T10:31:07.646Z",
+    "momentumScore": 0,
+    "momentumTrend": "stable",
+    "mostUsedLanguage": "N/A",
+    "overallImpactScore": 0,
+    "recentSubmissions": [],
+    "streak": 0,
+    "tier": "Inactive",
+    "todaySolved": 0,
+    "updatedAt": "2026-03-17T10:31:07.704Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0
+  },
+  {
+    "_id": "69b92bce592b25c091a1e675",
+    "leetcodeUsername": "naveen_55",
+    "__v": 1,
+    "batch": "EE-2025",
+    "currentStats": {
+      "easy": 0,
+      "hard": 0,
+      "medium": 0,
+      "total": 0
+    },
+    "name": "NAVEEN A",
+    "registerNumber": "814723105030",
+    "consistencyScore": 0,
+    "difficultyIndex": 0,
+    "lastUpdated": "2026-03-17T10:31:07.646Z",
+    "momentumScore": 0,
+    "momentumTrend": "stable",
+    "mostUsedLanguage": "N/A",
+    "overallImpactScore": 0,
+    "recentSubmissions": [],
+    "streak": 0,
+    "tier": "Inactive",
+    "todaySolved": 0,
+    "updatedAt": "2026-03-17T10:31:07.709Z",
+    "weeklyGrowth": 0,
+    "weeklySolved": 0
+  }
+]
